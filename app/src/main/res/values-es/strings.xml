@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiPrimeraAplicacion</string>
+    <string name="main_name">Nombre</string>
+    <string name="main_surname">Apellidos</string>
+    <string name="main_btnGreet">Saludar</string>
+    <string name="main_btnReset">Reiniciar</string>
+    <string name="politely">Educadamente</string>
+    <string name="politeGreet">Buenas tardes sr/sra</string>
+    <string name="unpoliteGreet">Qué hase</string>
+
+</resources>
